@@ -5,6 +5,7 @@ import math
 import time
 import tensorflow as tf
 
+# this is test
 #测试100个banch，每个banch有32个样本
 batch_size=32
 num_batches=30
